@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @astint2000
+- 👀 I’m interested in video games amd audio.
+- 🌱 I’m currently learning C++ and Python at Santiago Canyon College.
